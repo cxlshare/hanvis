@@ -1,4 +1,4 @@
-# SmileCare Dental Clinic — Enhanced Static Website
+# Hanvi's Dental Clinic — Enhanced Static Website
 
 This is a complete static website (HTML/CSS/JS) for a dental clinic prepared as an **enhanced version**.
 It includes a modern responsive layout, appointment form (client-side), and instructions for hooking the form to Formspree or your backend.

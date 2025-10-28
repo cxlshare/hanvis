@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function(){
         statusEl.textContent = 'Form ready. No endpoint configured — opening mail client as fallback.';
         const subject = encodeURIComponent('Appointment request from ' + (json.name || 'Patient'));
         const body = encodeURIComponent('Name: ' + (json.name||'') + '\nPhone: ' + (json.phone||'') + '\nDate: ' + (json.date||'') + '\nMessage: ' + (json.message||''));
-        window.location.href = 'mailto:info@smilecareclinic.com?subject=' + subject + '&body=' + body;
+        window.location.href = 'mailto:info@Hanvi'sclinic.com?subject=' + subject + '&body=' + body;
         return;
       }
 
